@@ -1,0 +1,1 @@
+KHÔNG. Trong Java, nạp chồng phương thức (overloading) dựa vào chữ ký phương thức (số lượng và kiểu dữ liệu tham số). Cả title và category đều là kiểu chuỗi String. Nếu viết public DigitalVideoDisc(String title) và public DigitalVideoDisc(String category), trình biên dịch sẽ báo lỗi vì không phân biệt được hai hàm này.
